@@ -1,0 +1,9 @@
+[main]
+utc_time: Time = Time { hour: 18, minute: 0 };
+conversions: [TimeZoneConversion; 5] = [
+    TimeZoneConversion { name: "Kyiv", offset: 2 },
+    TimeZoneConversion { name: "Warszawa", offset: 1 },
+    TimeZoneConversion { name: "New York", offset: -4 },
+    TimeZoneConversion { name: "Tokyo", offset: 9 },
+    TimeZoneConversion { name: "Sydney", offset: 10 }
+];
