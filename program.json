@@ -1,8 +1,6 @@
 {
-    "name": "aleo_time",
-    "version": "0.1.0",
-    "author": "Ваше Ім'я",
-    "license": "MIT OR Apache-2.0",
-    "dependencies": {}
+    "program": "aleo_time.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT"
 }
-
