@@ -1,12 +1,16 @@
 # Time Zone Conversion
 
 Discord - mbomaz
+
 Twitter(X) - @AleoGermany
+
 [Telegram](https://t.me/aleogermany)
+
 
 
 **How it works**
  Enter your time - and you get time in other time zone
+ 
 
 ## How to Start
 
