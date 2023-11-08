@@ -21,7 +21,7 @@ Twitter(X) - @AleoGermany
 
 **3. Go to the directory where the files from GitHub are located.**
 
-**Enter the command ```leo run main``` or ```leo run```**
+**4. Enter the command ```leo run main``` or ```leo run```**
 
 You can change time and city in directory **inputs**
 
